@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tasuo\OneDrive\桌面\shujujiegou\ConsoleApplication1\ConsoleApplication1.cpp(435,15): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Tasuo\OneDrive\桌面\shujujiegou\ConsoleApplication1\ConsoleApplication1.cpp(131): warning C4715: “SearchListForXInexist”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\Tasuo\OneDrive\桌面\shujujiegou\ConsoleApplication1\Debug\ConsoleApplication1.exe
